@@ -1,13 +1,8 @@
-<h2 align="left">👋 Hey there! I'm Sayed Zubair</h2>
+<h2>👋 Hey there! I'm Sayed Zubair</h2>
 
-<img
-  alt="Night Coding"
-  src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
-  align="right"
-  width="380"
-/>
-
----
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ### 🛠 Tech Stack
 
@@ -44,6 +39,20 @@
   <img src="https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman" />
   <img src="https://img.shields.io/badge/VS_Code-05122A?style=flat&logo=visual-studio-code" />
 </p>
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+<img
+  src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
+  width="320"
+  alt="Night Coding"
+/>
+
+</td>
+</tr>
+</table>
 
 ---
 
