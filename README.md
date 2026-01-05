@@ -36,7 +36,45 @@
 
 <table>
 <tr>
-<td>
+<td width="50%">
+
+### My GitHub Statistics
+
+⭐ **Total Stars:** 9  
+🟢 **Total Commits:** 1k+  
+🔀 **Total PRs:** 1  
+🐞 **Total Issues:** 6  
+👥 **Contributed To:** 4  
+
+</td>
+<td width="50%" align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=zubair277&show_icons=true&theme=tokyonight&cache_seconds=86400"
+  alt="GitHub Stats"
+/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td width="100%">
+
+### My Programming Languages
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubair277&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=86400"
+  alt="Top Languages"
+/>
+
+</td>
+</tr>
+</table>
+
 
 ### My GitHub Statistics
 
@@ -76,19 +114,7 @@ Currently pursuing a **B.E. in Computer Engineering** and actively building scal
 
 ---
 
-## 🚀 Highlight Projects
 
-**🔹 Career Path Visualiser (Industry Project)**  
-*Angular 17 · NgRx · NestJS · MySQL*  
-Full-stack recommendation system for academic advising and career discovery with authentication, skill profiling, and admin dashboards.
-
-**🔹 CircularHub Goa (B2B Marketplace)**  
-*React (TypeScript) · Node.js · Prisma · PostgreSQL · Supabase*  
-Scalable circular-economy marketplace with RBAC, real-time messaging, geospatial search, and 30+ REST APIs.
-
-**🔹 AI Expense Analyzer**  
-*Python · Streamlit · Pandas · Plotly · Gemini API*  
-Parses CSV/PDF financial data and generates interactive dashboards with trend analysis and AI-based summaries.
 
 ---
 
