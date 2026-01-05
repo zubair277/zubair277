@@ -1,129 +1,63 @@
-# 👋 Hey there! I'm Sayed Zubair
-
----
-
-## 🛠 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode)
-
----
-
-## ⚙ GitHub Analytics
-
-<table>
-<tr>
-<td width="50%">
-
-### My GitHub Statistics
-
-⭐ **Total Stars:** 9  
-🟢 **Total Commits:** 1k+  
-🔀 **Total PRs:** 1  
-🐞 **Total Issues:** 6  
-👥 **Contributed To:** 4  
-
-</td>
-<td width="50%" align="center">
+<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width="40" align="left"/>
+<h2>Hey there! I'm Sayed Zubair</h2>
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=zubair277&show_icons=true&theme=tokyonight&cache_seconds=86400"
-  alt="GitHub Stats"
+  alt="Night Coding"
+  src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
+  align="right"
 />
 
-</td>
-</tr>
-</table>
+---
 
-<br/>
+### 🛠 &nbsp;Tech Stack
 
-<table>
-<tr>
-<td width="100%">
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql&logoColor=white)\
 
-### My Programming Languages
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)\
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubair277&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=86400"
-  alt="Top Languages"
-/>
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)\
 
-</td>
-</tr>
-</table>
-
-
-### My GitHub Statistics
-
-⭐ **Total Stars:** 9  
-🟢 **Total Commits:** 1k+  
-🔀 **Total PRs:** 1  
-🐞 **Total Issues:** 6  
-👥 **Contributed To:** 4  
-
-</td>
-<td align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=zubair277&show_icons=true&theme=tokyonight" />
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td>
-
-### My Programming Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubair277&layout=compact&theme=tokyonight" />
-
-</td>
-</tr>
-</table>
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS_Code-05122A?style=flat&logo=visual-studio-code)\
 
 ---
 
-## 🧠 About Me
+### ⚙️ &nbsp;GitHub Analytics
 
-Aspiring **AI/ML Engineer** with strong foundations in **Python, data analysis, and machine learning pipelines**, complemented by **full-stack development** experience using **Angular, React, Node.js, and NestJS** to build and deploy intelligent, real-world applications.  
-Currently pursuing a **B.E. in Computer Engineering** and actively building scalable, production-ready systems.
-
----
-
-
-
----
-
-## 🤝 Connect with Me
-
-📧 **Email:** sayedzubair718@gmail.com  
-🔗 **LinkedIn:** https://linkedin.com/in/sayed-zubair  
-💻 **GitHub:** https://github.com/zubair277  
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=zubair277&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zubair277&layout=compact&langs_count=8&theme=algolia"
+  />
+</p>
 
 ---
 
-⭐ _Always learning. Always building. Focused on AI-driven, scalable solutions._
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+  <a href="mailto:sayedzubair718@gmail.com">
+    <img src="https://img.shields.io/badge/-sayedzubair718@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+  </a>
+</p>
