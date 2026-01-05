@@ -1,8 +1,14 @@
 <h2>👋 Hey there! I'm Sayed Zubair</h2>
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<br/>
+
+<div align="right">
+  <img
+    src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
+    width="320"
+    alt="Night Coding"
+  />
+</div>
 
 ### 🛠 Tech Stack
 
@@ -40,19 +46,7 @@
   <img src="https://img.shields.io/badge/VS_Code-05122A?style=flat&logo=visual-studio-code" />
 </p>
 
-</td>
-
-<td width="40%" align="center" valign="middle">
-
-<img
-  src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
-  width="320"
-  alt="Night Coding"
-/>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
@@ -63,6 +57,7 @@
     height="180"
     src="https://github-readme-stats-eight-theta.vercel.app/api?username=zubair277&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
   />
+  &nbsp;&nbsp;
   <img
     height="180"
     src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zubair277&layout=compact&langs_count=8&theme=algolia"
@@ -75,6 +70,18 @@
 
 <p align="center">
   <a href="mailto:sayedzubair718@gmail.com">
-    <img src="https://img.shields.io/badge/sayedzubair718@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sayed-zubair" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/zubaiiir07" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/zubaiiir07" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
 </p>
